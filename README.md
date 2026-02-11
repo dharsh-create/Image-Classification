@@ -19,7 +19,8 @@ The CNN consists of multiple convolutional layers with activation functions, fol
 
 ### CNN Model Architecture
 
-![alt text](/Images/image-4.png)
+<img width="1508" height="614" alt="image-4" src="https://github.com/user-attachments/assets/ef2ab7ac-fafe-46f4-84db-fee789b4b2fe" />
+
 ---
 
 ## Design Steps:
