@@ -70,9 +70,9 @@ Design a neural network with:
 
 ## PROGRAM
 
-### Name: VENKATANATHAN P R
+### Name: DHARSHINI V
 
-### Register Number: 212223240173
+### Register Number: 212223040038
 
 ```python
 import torch
@@ -127,19 +127,22 @@ def train_model(model, train_loader, num_epochs=3):
 
 ### Training Loss per Epoch
 
-![alt text](/Images/image.png)
+<img width="683" height="306" alt="Screenshot (6)" src="https://github.com/user-attachments/assets/b49aef02-2b23-4fa7-bbc2-b9f60206f97b" />
+
 
 ### Confusion Matrix
 
-![alt text](/Images/image-2.png)
+<img width="793" height="664" alt="Screenshot (7)" src="https://github.com/user-attachments/assets/cdbf64de-50b5-472a-acf6-be95ab0a40b2" />
+
 
 ### Classification Report
+<img width="630" height="447" alt="Screenshot (8)" src="https://github.com/user-attachments/assets/244b1525-0865-4a48-baaf-27228a604080" />
 
-![alt text](/Images/image-1.png)
 
 ### New Sample Data Prediction
 
-![alt text](/Images/image-3.png)
+<img width="770" height="626" alt="Screenshot (9)" src="https://github.com/user-attachments/assets/864303d9-0f13-4e16-9d8d-640d847e8edb" />
+
 
 ---
 
